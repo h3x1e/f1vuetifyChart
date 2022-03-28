@@ -1,0 +1,24 @@
+.apex-chart {
+    justify-content: center;
+}
+
+.chart {
+    width: 100%;
+    /* border: 2px solid lightblue; */
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    margin-bottom: 10px;
+}
+
+.driver-table {
+    /* border: 2px solid purple; */
+    margin-bottom: 10px;
+}
+
+.driver-input {
+    /* border: 2px solid red; */
+    margin-bottom: 10px;
+    /* display: flex; */
+    margin: 0 10% 10px 10%;
+}
